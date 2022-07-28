@@ -229,6 +229,7 @@ DEPENDENCIES
   rails (~> 7.0.2, >= 7.0.2.3)
   redis (~> 4.0)
   selenium-webdriver
+  sprockets (~> 4.0)
   sprockets-rails
   sqlite3 (~> 1.4)
   stimulus-rails
